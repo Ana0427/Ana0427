@@ -11,8 +11,6 @@ Curiosidade para investigar. Engenharia para construir.
 
 </div>
 
----
-
 ## Sobre mim
 
 Sou estudante de **Engenharia da Computação no UNISAL** e técnica em **Desenvolvimento de Sistemas**. Gosto de entender como a tecnologia funciona, do hardware às aplicações, e transformar esse conhecimento em projetos que resolvam problemas reais.
