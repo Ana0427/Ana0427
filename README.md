@@ -17,8 +17,6 @@ Curiosidade para investigar. Engenharia para construir.
 
 Sou estudante de **Engenharia da Computação no UNISAL** e técnica em **Desenvolvimento de Sistemas**. Gosto de entender como a tecnologia funciona, do hardware às aplicações, e transformar esse conhecimento em projetos que resolvam problemas reais.
 
-Tenho interesse em **pesquisa e inovação, desenvolvimento de software, hardware e cibersegurança**. Quero aprofundar minha formação técnica, participar de iniciativas de pesquisa e explorar a integração entre software e sistemas físicos.
-
 - 🎓 Minha formação combina fundamentos da computação e aprendizado prático.
 - 💻 Desenvolvo projetos acadêmicos para aplicar conceitos de programação e engenharia.
 - 🔬 Gosto de investigar problemas, experimentar soluções e compreender as escolhas técnicas.
